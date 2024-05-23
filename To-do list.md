@@ -21,4 +21,4 @@
 - To find color palette, just plug background image into: https://imagecolorpicker.com/en
 - Use unsplash for images
 - Here is a color psychology cheat sheet: https://www.pinterest.com/pin/63191201001891651/
-- Contact form is being routed here: https://formkeep.com/forms/16092db07ebf/submissions/24152553?spam=false
+- Contact form is being routed here: https://formkeep.com/forms/16092db07ebf/submissions/24152553?spam=false (fabform could be a good alternative as well)
